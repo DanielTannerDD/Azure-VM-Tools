@@ -40,7 +40,7 @@ This tutorial outlines the prerequisites creating vitual machine through microso
 <img src="https://i.imgur.com/bNAPcXz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
--Step 6 - Under Administrator account, provide a username, such as azureuser and a password. The password must be at least 12 characters long and meet the define complexity requirements
+-Step 6 - Under Administrator account provide a username, such as azureuser and a password. Please follow the guidlines requirements for creating username and password
 </p>
 <br />
 
