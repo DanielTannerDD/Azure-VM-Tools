@@ -13,8 +13,6 @@ This tutorial outlines the prerequisites creating vitual machine through microso
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
 - Windows 10
 
 <h2>Operating Systems Used </h2>
