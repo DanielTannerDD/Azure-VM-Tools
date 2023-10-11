@@ -63,7 +63,7 @@ This tutorial outlines the prerequisites creating vitual machine through microso
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/g3kSbY7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 -Step 9 - After validation runs, select the Create button at the bottom of the page.
