@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites creating vitual machine through microso
 <img src="https://i.imgur.com/gvdIK33.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Step 5 - Choose Windows Server 2022 Datacenter Azure Edition - x64 Gen 2 for the Image. Leave the other defaults.
+- Step 5 - Choose Windows Server 2022 Datacenter Azure Edition - x64 Gen 2 for the Image. 
 </p>
 <br />
 
@@ -40,7 +40,7 @@ This tutorial outlines the prerequisites creating vitual machine through microso
 <img src="https://i.imgur.com/bNAPcXz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
--Step 6 - Under Administrator account provide a username, such as azureuser and a password. Please follow the guidlines requirements for creating username and password
+-Step 6 - Under Administrator account provide a username such as azureuser and a password. Please follow the guidlines requirements for creating username and password
 </p>
 <br />
 
@@ -48,7 +48,7 @@ This tutorial outlines the prerequisites creating vitual machine through microso
 <img src="https://i.imgur.com/gJeFUb2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
--Step 7 - Under Inbound port rules, choose Allow selected ports and then select RDP (3389) and HTTP (80) from the drop-down.
+-Step 7 - Under Inbound port rules, choose Allow selected ports and then select RDP (3389) and HTTP (80) from the drop-down
 </p>
 <br />
 
@@ -56,7 +56,7 @@ This tutorial outlines the prerequisites creating vitual machine through microso
 <img src="https://i.imgur.com/epRyGJx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
--Step 8 - Leave the remaining defaults and then select the Review + create button at the bottom of the page.
+-Step 8 - Leave the remaining defaults and then select the Review + create button at the bottom of the page
 
 
 </p>
