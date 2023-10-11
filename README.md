@@ -37,7 +37,7 @@ This tutorial outlines the prerequisites creating vitual machine through microso
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bNAPcXz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 -Step 6 - Under Administrator account, provide a username, such as azureuser and a password. The password must be at least 12 characters long and meet the define complexity requirements
@@ -45,7 +45,7 @@ This tutorial outlines the prerequisites creating vitual machine through microso
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gJeFUb2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 -Step 7 - Under Inbound port rules, choose Allow selected ports and then select RDP (3389) and HTTP (80) from the drop-down.
