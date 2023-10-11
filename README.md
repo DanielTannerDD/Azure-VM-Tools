@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites creating vitual machine through microso
 - Step 4 - Under Instance details enter myVM for the Virtual machine name
 
 <p>
-<img src="https://i.imgur.com/MwlwVcb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gvdIK33.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 - Step 5 - Choose Windows Server 2022 Datacenter Azure Edition - x64 Gen 2 for the Image. Leave the other defaults.
